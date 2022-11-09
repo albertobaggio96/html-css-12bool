@@ -10,5 +10,18 @@
   height: 3rem;
   line-height: 3rem;
   text-align: center;
+  padding: .5rem;
 }
+
+[class*="col-"]>[class*="col-"]{
+  background-color: green;
+  border: 1px solid blue;
+  height: 2rem;
+  line-height: 2rem;
+}
+
+.container{
+  padding-bottom: 1rem;
+}
+
 
