@@ -21,7 +21,7 @@
   padding: .5rem;
 }
 
-[class*="col-"]>[class*="col-"]{
+[class*="col-"] [class*="col-"]{
   background-color: green;
   border: 1px solid blue;
   height: 2rem;
