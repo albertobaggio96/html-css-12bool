@@ -13,14 +13,6 @@
   padding: .5rem;
 }
 
-[class*="col-offset"]{
-  opacity: 0;
-  height: 3rem;
-  line-height: 3rem;
-  text-align: center;
-  padding: .5rem;
-}
-
 [class*="col-"] [class*="col-"]{
   background-color: green;
   border: 1px solid blue;
